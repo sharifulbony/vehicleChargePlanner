@@ -36,3 +36,5 @@ Additionally, you could implement the method that will calculate the amount of s
 6. Description is given before each method
 7. The maximum charge power will be used for the lowest cost even if it comes later on schedule.
 8. The assumption is that "there is some mechanism by which one can control the amount of charge given in a hour"
+9. additional method like cost saving by charge planner is also given
+10. also test method is also given for testing cost saving.

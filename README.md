@@ -28,11 +28,11 @@ Additionally, you could implement the method that will calculate the amount of s
 
 #below section written by the developer A K M Shariful Islam
 
-1.The charge planner method has been implemented successfully for the given test case.
-2.It also should supposed to work for any random generated energy sequences. 
-3.A test method for another energy sequences is also given
-4.My understanding from the given test cases is that the askedPrice is used to calculate cost and I did all my work with that undestanding
-5.If the energy price sequences is given for multiple days then vehicle would still wait if needed for the lowest optimum cost 
-6.Description is given before each method
-7.The maximum charge power will be used for the lowest cost even if it comes later on schedule.
-8.The assumption is that "there is some mechanism by which one can control the amount of charge given in a hour"
+1. The charge planner method has been implemented successfully for the given test case.
+2. It also should supposed to work for any random generated energy sequences. 
+3. A test method for another energy sequences is also given
+4. My understanding from the given test cases is that the askedPrice is used to calculate cost and I did all my work with that undestanding
+5. If the energy price sequences is given for multiple days then vehicle would still wait if needed for the lowest optimum cost 
+6. Description is given before each method
+7. The maximum charge power will be used for the lowest cost even if it comes later on schedule.
+8. The assumption is that "there is some mechanism by which one can control the amount of charge given in a hour"
